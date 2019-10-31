@@ -17,7 +17,7 @@ public class Guitarrista  extends Musico {
 	@Override
 	public String tocar() {
 		// TODO Auto-generated method stub
-		return "El baterista toca la "+getInstrumento()+"\n";
+		return "El guitarrista toca la "+getInstrumento()+"\n";
 	}
 	
 	public void mostrar() {
